@@ -1,4 +1,5 @@
-## Tutorial de AMPtk con datos de ITS2 (hongos) generados por Illumina MiSeq
+## Tutorial de AMPtk con datos de ITS2 (hongos) generados por Illumina MiSeq 
+## Con este tutorial se generará una tabla de OTUs en formato .biom, con un min_lenght de secuencias de 200 bp.
 ##Raquel Hernández Austria Mayo de 2020
 
 #Conectarnos al cluster de CONABIO ssh -p 45789 cirio@200.12.166.164
